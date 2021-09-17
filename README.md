@@ -1,11 +1,10 @@
 
+CSE student at VIT Bhopal University
 
-CSE student at VIT University Bhopal 
+python programming
 
-python developer
+web development
 
 fitness freak 
-
-loves binge watching web series late night 
 
 traveling enthusiastic
