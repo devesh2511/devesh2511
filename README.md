@@ -8,9 +8,9 @@
 
 - 👨‍💻Currently working on **[Playlist Web App](https://github.com/devesh2511?tab=repositories)**
 
-- 💬 Ask me about ****
 
-- 📫 Reach me 👇<br>
+
+- 📫 Reach 👇<br>
 
 [![](https://img.shields.io/badge/-deveshjain2511-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devesh-jain-2511dj)](https://www.linkedin.com/in/devesh-jain-2511dj/)
 [![](https://img.shields.io/badge/-deveshjain._-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/deveshjain._)](https://www.instagram.com/deveshjain._)
@@ -18,6 +18,10 @@
 [![](https://img.shields.io/badge/-devesh2511-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devesh2511)
 [![](https://img.shields.io/badge/-devesh%20%231739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eVfSspfjvb)
 
+<br />
+
+- 💬 Off Github **Travelling | Fitness | Movies | Football | Cricket | Comic | Dance**
+ 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=devesh2511)
 
 ### Languages :
