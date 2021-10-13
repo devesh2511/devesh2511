@@ -4,7 +4,7 @@
 
 - 💻 **[Check out my projects!](https://github.com/devesh2511?tab=repositories)**
 
-- Looking forward to collaborate on **Open Source ContributionS**
+- Looking forward to collaborate on **Open Source Contributions**
 
 - 👨‍💻Currently working on **[Playlist Web App](https://github.com/devesh2511?tab=repositories)**
 
