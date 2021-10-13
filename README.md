@@ -20,7 +20,7 @@
 
 <br />
 
-- 💬😁🖱💻🔌 Off Github **Travelling | Fitness | Movies | Football | Cricket | Comic | Dance**
+- 😁💻🔌 Off Github ***Travelling | Fitness | Movies | Football | Cricket | Comic | Dance***
 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=devesh2511)
 
