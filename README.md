@@ -33,7 +33,7 @@
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java)
 
 <!-- https://github.com/devesh2511/github-readme-stats -->
-
+<center>
    
   <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
@@ -48,3 +48,4 @@ because i dont like to make "issue" 🤭😉
  <img src="https://activity-graph.herokuapp.com/graph?username=devesh2511&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+</center>
