@@ -33,8 +33,7 @@
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java)
 
 <!-- https://github.com/devesh2511/github-readme-stats -->
-<center>
-   
+
   <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
     <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=devesh2511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="400px"/></a>
@@ -48,4 +47,3 @@ because i dont like to make "issue" 🤭😉
  <img src="https://activity-graph.herokuapp.com/graph?username=devesh2511&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-</center>
