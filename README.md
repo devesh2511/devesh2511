@@ -6,7 +6,7 @@
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Playlist Web App](https://github.com/devesh2511?tab=repositories)**
+- 👨‍💻 Currently working on **[Playlist Web App](https://github.com/devesh2511/playlist)**
 
 - 📫 Reach 👇<br>
 
