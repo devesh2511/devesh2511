@@ -31,11 +31,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java)
 
-<p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=devesh2511&theme=tokyonight&show_icons=true&hide=stars" align = "center">
-</p>
+<!-- https://github.com/devesh2511/github-readme-stats -->
+ 
+  <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
+  <br/>
+    <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=devesh2511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    &nbsp;
+  <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+</summary>
 
-<p align = "center">
-     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&theme=tokyonight" align = "center">
+<p align="center">
+<a href="https://github.com/devesh2511/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=devesh2511&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
 </p>
-
