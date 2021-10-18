@@ -36,11 +36,11 @@
 
   <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=devesh2511&show_icons=true&theme=react&hide_border=true"><img alt="Devesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devesh2511&show_icons=true&theme=react&hide_border=true" height="192px" width="400px"/></a>
-  <a href="https://github.com/devesh2511/github-readme-stats"><img alt="Devesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="300px"/></a>
+    <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=devesh2511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="400px"/></a>
+  <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="300px"/></a>
   <br/>
 
-"because i dont like to make "issue" ***🤭😉***"
+ "because i dont like to make "issue"!!"**🤭😉**
 </summary>
 <p align="center">
 <a href="https://github.com/devesh2511/github-readme-activity-graph">
