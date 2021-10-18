@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi👋, Devesh here!</h1>
-<h3 align="center">I am a Computer Science student, Web developer & AI ML enthusist.</h3>
+<h3 align="center">I am a Computer Science student, Web developer & AI ML enthusiast.</h3>
 
 - 💻 **[Check out my projects!](https://github.com/devesh2511?tab=repositories)**
 
-- Looking forward to collaborate on **Open Source Contributions**
+- Looking forward to collaborate on **Open Source Projects**
 
 - 👨‍💻 Currently working on **[Playlist Web App](https://github.com/devesh2511?tab=repositories)**
 
