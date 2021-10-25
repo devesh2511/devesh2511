@@ -19,8 +19,6 @@
 <br />
 <img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="290" />
 
-- 😁💻🔌 Off Github ***Travelling | Fitness | Movies | Football | Cricket | Comic | Dance***
-
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=devesh2511)
 
 ### Languages :
