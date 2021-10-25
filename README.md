@@ -39,6 +39,7 @@
   <br/>
   </summary>
 <p align="center">
-[![Devesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=devesh2511)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
 </p>
