@@ -30,6 +30,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java)
 
+- 💻🔌When I'm not on Github ***I Travel, I Play, I Watch, I Workout, I Listen***
+
 <!-- https://github.com/devesh2511/github-readme-stats -->
 
   <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
