@@ -12,12 +12,12 @@
 
 [![](https://img.shields.io/badge/-deveshjain2511-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devesh-jain-2511dj)](https://www.linkedin.com/in/devesh-jain-2511dj/)
 [![](https://img.shields.io/badge/-deveshjain._-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/deveshjain._)](https://www.instagram.com/deveshjain._)
-[![](https://img.shields.io/badge/-deveshsolapur@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deveshjain)](mailto:deveshsolapur@gmail.com)
+[![](https://img.shields.io/badge/-deveshsolapur@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deveshjain)](mailto:deveshsolapur@gmail.com)!
 [![](https://img.shields.io/badge/-devesh2511-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devesh2511)
 [![](https://img.shields.io/badge/-devesh%20%231739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eVfSspfjvb)
-
-<br />
-<img align="right" alt="GIF" src="code.gif?raw=true" width="450" height="290" />
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511" alt="devesh2511" /></a> 
+<img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
+</p>
 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=devesh2511)
 
@@ -37,7 +37,6 @@
   <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
   <br/>
     <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=devesh2511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="400px"/></a>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511" alt="devesh2511" /></a> </p>
   <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="300px"/></a>
   <br/>
   </summary>
