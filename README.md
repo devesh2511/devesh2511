@@ -12,13 +12,11 @@
 
 [![](https://img.shields.io/badge/-deveshjain2511-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devesh-jain-2511dj)](https://www.linkedin.com/in/devesh-jain-2511dj/)
 [![](https://img.shields.io/badge/-deveshjain._-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/deveshjain._)](https://www.instagram.com/deveshjain._)
-[![](https://img.shields.io/badge/-deveshsolapur@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deveshjain)](mailto:deveshsolapur@gmail.com)!
+[![](https://img.shields.io/badge/-deveshsolapur@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:deveshjain)](mailto:deveshsolapur@gmail.com)
 [![](https://img.shields.io/badge/-devesh2511-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devesh2511)
 [![](https://img.shields.io/badge/-devesh%20%231739-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eVfSspfjvb)
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511" alt="devesh2511" /></a> 
-<img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
-</p>
-
+ <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
+ 
 ![Profile visits](https://visitor-badge.laobi.icu/badge?page_id=devesh2511)
 
 ### Languages :
@@ -30,6 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
 - 💻🔌 Off Github ***I Travel, I Play, I Watch, I Listen***
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="devesh2511" /></a> </p>
 
 <!-- https://github.com/devesh2511/github-readme-stats -->
 
