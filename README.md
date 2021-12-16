@@ -28,7 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 
 - 💻🔌 Off Github ***I Travel, I Play, I Watch, I Listen***
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="devesh2511" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="devesh2511" /></a> </p> -->
 
 <!-- https://github.com/devesh2511/github-readme-stats -->
 
