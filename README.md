@@ -53,4 +53,4 @@
 </a>
 </p>
 
-- 💻 **[Detailed Stats](https://gitstats.me/devesh2511)**
+- **[Detailed Stats](https://gitstats.me/devesh2511)**
