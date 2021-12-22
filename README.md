@@ -52,3 +52,4 @@
  <img src="https://activity-graph.herokuapp.com/graph?username=devesh2511&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+- 💻 **[Detailed Stats](https://gitstats.me/devesh2511)**
