@@ -36,7 +36,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
 - 💻🔌 Off Github ***I Travel, I Play, I Listen***
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="devesh2511" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh2511&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="devesh2511" /></a> </p>
 
 <!-- https://github.com/devesh2511/github-readme-stats -->
 
