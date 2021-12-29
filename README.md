@@ -36,8 +36,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
 
 - 💻🔌 Off Github ***I Travel, I Play, I Listen***
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=devesh2511&row=1&theme=onedark&margin-w=15&margin-h=15&no-frame=true"> </p>
-
 <!-- https://github.com/devesh2511/github-readme-stats -->
 
   <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
