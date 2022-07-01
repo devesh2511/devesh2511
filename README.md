@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi Folks <img src="wave.gif" width="30px">, Devesh here!</h1>
+<h1 align="center">Hi Folks, Devesh here!</h1>
 <h3 align="center">I am a Computer Science student, Web developer & ML enthusiast.</h3>
 
 - 💻 **[Check out my projects!](https://github.com/devesh2511?tab=repositories)**
