@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://github.com/devesh2511/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devesh2511&bg_color=000132&color=70ffff&line=00787a&point=5cff6f&area=true&hide_border=true" width="100%">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devesh2511&bg_color=000019&color=70ffff&line=00a5a8&point=38ff4f&area=true&hide_border=true" width="100%">
 </a>
 </p>
 
