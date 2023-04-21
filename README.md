@@ -42,8 +42,14 @@
   <br/>
 <!--     <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=devesh2511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="370px"/></a>
   <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="370px"/></a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh2511&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="370px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px" width="370px"/></a>
+   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=devesh2511&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2511&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+</table>
   <br/>
   </summary>
 
@@ -54,15 +60,3 @@
 </p>
 
 - **[Detailed Stats](https://gitstats.me/devesh2511)**
-
-
-<h2 align="center">Github Activity📊 !! 😊 </h2>   
-   
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=devesh2511&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2511&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
-   <tr><td>😀</td></tr>
-</table>
