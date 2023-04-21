@@ -54,3 +54,15 @@
 </p>
 
 - **[Detailed Stats](https://gitstats.me/devesh2511)**
+
+
+<h2 align="center">Github Activity📊 !! 😊 </h2>   
+   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=devesh2511&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2511&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+   <tr><td>😀</td></tr>
+</table>
