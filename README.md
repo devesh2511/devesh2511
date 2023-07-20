@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi Folks, Devesh here!</h1>
-<h3 align="center">I am a Computer Science student, Web developer & ML enthusiast.</h3>
+<h3 align="center">I am a Computer Science student, and a Web developer</h3>
 
 - 💻 **[Check out my projects!](https://github.com/devesh2511?tab=repositories)**
 
 - Looking forward to collaborate on **Open Source Projects**
 
-- 👨‍💻 Currently working on **[Medical Service](https://github.com/devesh2511)**
+- 👨‍💻 Currently working on **[MERN Stack](https://github.com/devesh2511/mern-login)**
 
 - 📫 Reach 👇<br>
 
@@ -39,24 +39,20 @@
 <!-- https://github.com/devesh2511/github-readme-stats -->
 
   <summary style="text-align : center"><b>💻 GitHub Profile Stats</b>
-  <br/>
-<!--     <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=devesh2511&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="370px"/></a>
-  <a href="https://github.com/devesh2511/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="370px"/></a> -->
    
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=devesh2511&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh2511&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2511&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
-</table>
+  <br/>
+<table align="center">
+  <tr align="center">
+    <td align="center"><img src="https://github-readme-stats-ouuan.vercel.app/api?username=devesh2511&theme=radical&show_icons=true"  display=block width=90% height=auto  alt="1" > </td>
+   
+   <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devesh2511&theme=tokyonight"  display=block width=90% height=auto alt="3" ></td>
+   </tr>
+   </table>
   <br/>
   </summary>
 
 <p align="center">
-<a href="https://github.com/devesh2511/github-readme-activity-graph">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=devesh2511&bg_color=000019&color=70ffff&line=00a5a8&point=38ff4f&area=true&hide_border=true" width="100%">
-</a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devesh2511&theme=radical" height=auto width=90%"  />  
 </p>
 
-- **[Detailed Stats](https://gitstats.me/devesh2511)**
+
